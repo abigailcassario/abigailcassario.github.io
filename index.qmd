@@ -1,7 +1,7 @@
 ---
 title: "Abigail Cassario: PhD Student in Psychology"
 image: "Me.png"
-resources: Cassario_cv_8_14.pdf
+resources: Cassario_cv_Jan_26_24.pdf
 about: 
   template: trestles
   image-shape: round
@@ -18,7 +18,7 @@ about:
       href: https://twitter.com/ACassario
     - text: CV
       icon: file-text
-      href: Cassario_cv_8_14.pdf
+      href: Cassario_cv_Jan_26_24.pdf
     - text: TBS Lab Website
       href: https://tbslaboratory.com/
   id: ppc 

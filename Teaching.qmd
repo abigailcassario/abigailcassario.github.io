@@ -15,4 +15,4 @@ editor: visual
 
 ## Methods
 
--   Undergraduate Introduction to Statistics and R Programming
+-   Undergraduate Introduction to Statistics and R Programming (Psychology and Political Science\_
