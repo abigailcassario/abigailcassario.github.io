@@ -6,6 +6,8 @@ editor: visual
 ## Psychology
 
 -   Introduction to Social Psychology
+-   Personality Psychology
+-   Psychology of Women
 
 ## Political Science
 
@@ -15,4 +17,4 @@ editor: visual
 
 ## Methods
 
--   Undergraduate Introduction to Statistics and R Programming (Psychology and Political Science\_
+-   Undergraduate Introduction to Statistics and R Programming (Psychology and Political Science)
