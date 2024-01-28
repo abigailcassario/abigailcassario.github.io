@@ -12,7 +12,6 @@ editor: visual
 ## Political Science
 
 -   Introduction to American Politics
-
 -   Race, Innocence, and the Death Penalty
 
 ## Methods
