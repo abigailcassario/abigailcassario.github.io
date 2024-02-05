@@ -2,7 +2,7 @@
 title: "Abigail Cassario: PhD Student in Psychology"
 image: "Me.png"
 resources: Cassario_cv_Jan_26_24.pdf
-about: 
+about:  
   template: trestles
   image-shape: round
   image-width: 15em
