@@ -3,7 +3,7 @@ title: "Research"
 editor: visual
 ---
 
-## My Interests		
+## My Interests
 
 Attitudes, Beliefs, Belief Systems, Survey Research, Observational Causal Inference, Computational Social Science
 

@@ -1,7 +1,7 @@
 ---
 title: "Abigail Cassario: PhD Student in Psychology"
 image: "Me.png"
-resources: Cassario_cv_Jan_26_24.pdf
+resources: 2025_05_5_Cassario_cv.pdf
 about:  
   template: trestles
   image-shape: round
@@ -12,10 +12,7 @@ about:
       href: mailto:alcassario96@gmail.com
     - text: GitHub
       icon: github
-      href: https://github.com/alcassario
-    - text: Twitter
-      icon: twitter
-      href: https://twitter.com/ACassario
+      href: https://github.com/abigailcassario
     - text: CV
       icon: file-text
       href: 2025_05_5_Cassario_cv.pdf
