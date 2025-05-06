@@ -3,42 +3,46 @@ title: "Research"
 editor: visual
 ---
 
-## My Interests
+## My Interests		
 
-Political Ideology, Ideological Development, Attitude Moralization, Political Polarization, Survey Research, Observational Causal Inference
+Attitudes, Beliefs, Belief Systems, Survey Research, Observational Causal Inference, Computational Social Science
 
 ## Publications
 
-Cox., Keith S., Katherine J. Hanek, and Abigail L. Cassario. "Redemption in a Single Low Point Story Longitudinally Predicts Well-Being: The Incremental Validity of Life Story Elements." *Journal of Personality 87 (5)* (2019) 1009-1024.
+### Peer-Reviewed Journal Articles
 
-Cassario, Abigail L., Keith S. Cox, and Joshua Wilt. "Investigating the Cross Racial Measurement (In?) Variance of the Right Wing Authoritarianism Scale" *Journal of* *Psychological Inquiry* (2020).
+Cassario, A. L., Vallabha, S., Thompson, J. L., Carrillo, A., Solanki, P., Gnall, S. A., Rice, S., Wetherell, G., & Brandt, M. J. (in press). Cognitive ability but not cognitive reflection predicts political animosity and favouritism. *British Journal of Social Psychology*. <a href="2024-10-01-Stage2-FINAL.pdf">Paper</a> <a href="10-01-2024-Supplementals_Materials.pdf">Supplemental Materials</a>
 
-Brandt, Mark J., and Abigail L. Cassario. "Distinguishing Between Worldview Conflict and Shared Alliances: Commentary on Pinsof, Sears, and Haselton." *Psychological Inquiry* 34 (3) (2023), 168-174. <a href="comment_brandt-cassario_psyarxiv.pdf">Paper</a>
+Cassario, A. L., & Brandt, M. J. (in press). Testing theories of threat, individual difference, and ideology: Little evidence of personality-based individual differences in ideological responses to threat. *Social Psychological and Personality Science*. <a href="2024-08-05-FINAL-personality-threat.pdf">Paper</a> <a href="PersonalityThreatSupplementals.pdf">Supplemental Materials</a>
 
-Cassario, Abigail L., "Perceived Vulnerability to Infectious Disease and Perceived Harmfulness Are as Predictive of Citizen Response to COVID-19 as Partisanship." *Politics and the Life Sciences* 42 (2) (2023), 277-290. <a href="PVD_shortened_intro_PLS_new_pdf.pdf">Paper</a> <a href="PVDHarmAppendixPLS_pdf.pdf">Supplemental Materials</a>
+Wetherell, G., Thompson, J. L., Cassario, A. L., Brandt, M. J., Gnall, S., Rice, S., Solanki, P., Vallabha, S., & Carrillo, A. (in press). Do mismatches between individual and target group personality predict prejudice? Collabra: Psychology. <a href="https://online.ucpress.edu/collabra/article/11/1/136887/209913">Paper</a>
 
-## Accepted Stage 1 Registered Reports
+Cassario, A. L. (2023). Perceived vulnerability to infectious disease and perceived harmfulness are as predictive of citizen response to COVID-19 as partisanship. *Politics and the Life Sciences,* 42 (2), 277--290. <a href="PVD_shortened_intro_PLS_new_pdf.pdf"> Paper</a> <a href="PVDHarmAppendixPLS_pdf.pdf">Supplemental Materials</a>
 
-Wetherell, Geoffrey A., Jordan L. Thompson, Mark J. Brandt, Abigail L. Cassario, Sada Rice, Prachi Solanki, and Shree Vallabha, "Do Mismatches Between Individual and Target Group Personality Predict Prejudice?" *Collabra Psychology*.
+Cox, K. S., Hanek, K. J., & Cassario, A. L. (2019). Redemption in a single low point story longitudinally predicts well-being: The incremental validity of life story elements. *Journal of Personality, 87*(5), 1009--1024.
 
-Cassario, Abigail L., Jordan L. Thompson, Alejandro Carillo, Prachi Solanki, Shree Vallabha, Samantha A. Gnall, Sada Rice, Geoffrey Wetherell, and Mark J., Brandt, "Cognitive Ability, Cognitive Reflection, and Attitudes Towards Ideological Groups." *British Journal of Social Psychology*. <a href="cogability_pol_animosity_no_tracked_changes_10_31.pdf">Accepted Stage 1 Registered Report</a>
+### Editor-Reviewed Publications
 
-## Revise and Resubmit
+Brandt, M. J., & Cassario, A. L. (2023). Distinguishing between worldview conflict and shared alliances: Commentary on Pinsof, Sears, and Haselton. *Psychological Inquiry, 34*(3), 168--174. <a href="comment_brandt-cassario_psyarxiv.pdf">Paper</a>
 
-Thompson, Jordan L., Abigail L. Cassario, Sada Rice, Samantha A. Gnall, Alejandro Carillo, Prachi Solanki, Shree Vallabha, Mark J. Brandt, and Geoffrey Wetherell. "Registered Report: Stress Testing Predictive Models of Ideological Prejudice." *Plos One*.
+### Accepted Stage 1 Registered Reports
 
-## Under Review
+Thompson, J. L., Cassario, A. L., Rice, S., Gnall, S. A., Carrillo, A., Solanki, P., Vallabha, S., Brandt, M. J., & Wetherell, G. (accepted). Registered report: Stress testing predictive models of ideological prejudice. *PLOS ONE*.
 
-Cassario, Abigail L., Mark J. Brandt. "Testing Theories of Threat, Individual Difference and Ideology: Little Evidence of Personality Based Individual Differences in Ideological Responses to Threat." *Social Psychological and Personality Science* <a href="2024-01-22-FINAL-non-anon-pdf.pdf">Pre-print</a>
+### Under Review
 
-Cassario, Abigal L., and Mark J. Brandt. \`\`Testing Predictions About Individual Level Belief System Structure Using the Conceptual Similarity Task.'' *Journal of Personality and Social Psychology*
+Rice, S., Cassario, A. L., Solanki, P., Gnall, S. A., Thompson, J. L., Carrillo, A., Vallabha, S., Brandt, M. J., & Wetherell, G. (under review). (National) pride predicts prejudice toward a variety of social groups.
 
-Rice, Sada, Abigail L. Cassario, Prachi Solanki, Samantha A. Gnall, Jordan L. Thompson, Alejandro Carillo, Shree Vallabha, Mark J. Brandt, and Geoffrey Wetherell. "(National) Pride Predicts Prejudice Towards a Variety of Social Groups" *Comprehensive Results in Social Psychology.*
+Cassario, A. L., Triki, A., & Brandt, M. J. (under review). Threat exposure does not predict increased conservatism in three large experiments: Evidence from the U.S.
 
-## Working Projects
+### Current Projects
 
-Cassario, Abigail L., and Mark J. Brandt. "Can Conceptualizing Belief Systems as Networks Help Us Understand the Process of Attitude Moralization?"
+Cassario, A. L., & Hawke, S. (in progress). Towards optimal resource allocation: Exploring resource optimization at the intersection of sample size vs. measurement precision in original survey research.
 
-Finkel, Eli J., Catherine Garton, Alexander Landry, Ben Annandappa, and Abigail L. Cassario. "A Meta-Analysis of Partisan Misperceptions."
+Cassario, A. L., & Brandt, M. J. (in progress). Conviction cascades: Moral conviction transmits through belief system network ties.
 
-Cassario, Abigail L. and Mark J. Brandt. \`\`''
+Cassario, A. L., & Brandt, M. J. (in progress). Exploring the effects of downward mobility on attitudes, behaviors, and life outcomes.
+
+Cassario, A. L., Mulwa, K., & Brandt, M. J. (in progress). Does a competitive presidential campaign increase interest in, desire to consume, and desire to share misinformation?
+
+Cassario, A. L., Mulwa, K., & Brandt, M. J. (in progress). Asymmetrical perceptions? Do co- and out-partisans view Republicans as more likely to believe and be interested in misinformation?

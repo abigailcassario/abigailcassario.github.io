@@ -18,15 +18,19 @@ about:
       href: https://twitter.com/ACassario
     - text: CV
       icon: file-text
-      href: Cassario_cv_Jan_26_24.pdf
+      href: 2025_05_5_Cassario_cv.pdf
     - text: TBS Lab Website
       href: https://tbslaboratory.com/
+    - text: Bluesky 
+      href: https://bsky.app/profile/abbycassario.bsky.social
   id: ppc 
 ---
 :::{#ppc}
-Welcome to my website! I am a second year PhD Student in the Department of Psychology at Michigan State University and a member of the Belief Systems Lab. My research and teaching interests lie in social and political psychology and research methods. 
+Welcome to my website! I’m a third-year PhD student in the Department of Psychology at Michigan State University and a member of the Belief Systems Lab. My research and teaching interests lie in social and political psychology, as well as research methods.
 
-Specifically, I have substantive interests in ideology, ideological development, attitude moralization, and how these processes can help us understand political polarization. My methodological interests concern, among other things, survey research and observational causal inference. I also enjoy R programming, tech-y things, and craft beer! I was a division one swimmer as an undergraduate at the University of North Carolina at Asheville (go Bulldogs!), and still enjoy swimming and weightlifting in my free time.  
+Substantively, I’m interested in individual differences in political attitudes—specifically, how psychological traits and socioeconomic experiences shape those attitudes. With respect to trait-like attributes, I study how the individual-level structure of people’s belief systems influences their political attitudes and the qualities of those attitudes (e.g., strength, moral conviction). On the socioeconomic side, I focus on how both actual and perceived downward mobility affect political orientation, support for populism, intergroup attitudes, and support for anti-democratic policies and behaviors.
 
-Before MSU, I received my BA in political science and psychology from the University of North Carolina at Asheville, and my MA in political science from the University of North Carolina at Chapel Hill. 
+I’m also deeply interested in quantitative methods and in improving causal inference in social psychology.
+
+Before coming to MSU, I earned my B.A. in Political Science and Psychology from the University of North Carolina at Asheville and my M.A. in Political Science from the University of North Carolina at Chapel Hill. 
 :::
