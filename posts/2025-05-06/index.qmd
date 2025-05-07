@@ -1,5 +1,5 @@
 ---
-title: "Non-Technically Speaking: A Blog About Modeling, Mostly Through Simulation"
+title: "Non-Technically Speaking: A Blog About Statistics, Mostly Using Simulation"
 description: "Things I've learned about methods, communicated mostly through simulation. And also sometimes thoughts about academic life."
 author:
   - name: Abigail Cassario 
