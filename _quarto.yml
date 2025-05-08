@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Abigail Cassario"
+  google-analytics: "G-6L8SFJ66MV"
   navbar:
     left:
       - href: index.qmd
