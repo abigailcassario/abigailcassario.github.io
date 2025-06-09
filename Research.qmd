@@ -37,12 +37,16 @@ Cassario, A. L., Triki, A., & Brandt, M. J. (under review). Threat exposure does
 
 ### Current Projects
 
-Cassario, A. L., & Hawke, S. (in progress). Towards optimal resource allocation: Exploring resource optimization at the intersection of sample size vs. measurement precision in original survey research.
+Cassario, A. L., & Brandt, M. J. (in progress). Conviction cascades: Moral conviction transmits through belief system network ties and explains increasing political sectarianism over time.
 
-Cassario, A. L., & Brandt, M. J. (in progress). Conviction cascades: Moral conviction transmits through belief system network ties.
+Cassario, A. L.\*, & Hawke, S.\* (in progress). Towards optimal resource allocation: Exploring resource optimization at the intersection of sample size vs. measurement precision in original survey research.
+
+Triki, A., Cassario, A.L., & Brandt M.J. (in progress). Mixed evidence for ideological asymmetries in partisan cue effects.
 
 Cassario, A. L., & Brandt, M. J. (in progress). Exploring the effects of downward mobility on attitudes, behaviors, and life outcomes.
 
 Cassario, A. L., Mulwa, K., & Brandt, M. J. (in progress). Does a competitive presidential campaign increase interest in, desire to consume, and desire to share misinformation?
 
 Cassario, A. L., Mulwa, K., & Brandt, M. J. (in progress). Asymmetrical perceptions? Do co- and out-partisans view Republicans as more likely to believe and be interested in misinformation?
+
+\*denotes equal contribution
