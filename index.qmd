@@ -26,7 +26,7 @@ about:
   id: ppc 
 ---
 :::{#ppc}
-Welcome to my website! I’m a third-year PhD student in the Department of Psychology at Michigan State University and a member of the Belief Systems Lab. My research and teaching interests lie in social and political psychology, as well as research methods.
+Welcome to my website! I’m a fourth-year PhD student in the Department of Psychology at Michigan State University and a member of the Belief Systems Lab. My research and teaching interests lie in social and political psychology, as well as research methods.
 
 Substantively, I’m interested in individual differences in political attitudes—specifically, how psychological traits and socioeconomic experiences shape those attitudes. With respect to trait-like attributes, I study how the individual-level structure of people’s belief systems influences their political attitudes and the qualities of those attitudes (e.g., strength, moral conviction). On the socioeconomic side, I focus on how both actual and perceived downward mobility affect political orientation, support for populism, intergroup attitudes, and support for anti-democratic policies and behaviors.
 
