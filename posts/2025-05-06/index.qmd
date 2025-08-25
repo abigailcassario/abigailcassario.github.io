@@ -9,7 +9,7 @@ author:
     #categories: [simulation, data analysis, modeling]
     citation: https://alcassario.github.io/posts/2025-05-6/
     image: preview_image.jpg
-    draft: false
+    draft: true
 ---
 
 I've had a very clear plan for this blog for a long time--- really, I have. For about three years, to be exact.

@@ -3,11 +3,11 @@ title: "Research"
 editor: visual
 ---
 
-## My Interests
+## My Interests					
 
-Attitudes, Beliefs, Belief Systems, Survey Research, Observational Causal Inference, Computational Social Science
+Ideology, Beliefs, Belief Systems, Polarization, Misinformation, Populism, Computational Social Science
 
-## Publications
+## Research papers
 
 ### Peer-Reviewed Journal Articles
 
@@ -33,22 +33,24 @@ Thompson, J. L., Cassario, A. L., Rice, S., Gnall, S. A., Carrillo, A., Solanki,
 
 ### Under Review
 
-Rice, S., Cassario, A. L., Solanki, P., Gnall, S. A., Thompson, J. L., Carrillo, A., Vallabha, S., Brandt, M. J., & Wetherell, G. (under review). (National) pride predicts prejudice toward a variety of social groups.
+Cassario, A. L., Triki, A.†, & Brandt, M. J. (under review). Threat exposure does not predict increased conservatism in three large experiments: Evidence from the U.S.
 
-Cassario, A. L., Triki, A., & Brandt, M. J. (under review). Threat exposure does not predict increased conservatism in three large experiments: Evidence from the U.S.
+†- denotes mentored undergraduate student
 
 ### Current Projects
 
-Cassario, A. L., Vallabha S., & Brandt, M. J. (in progress). Central attitudes are more resistant to change.
+Triki, A.†, Cassario, A. L., & Brandt, M. J. (Manuscript in preparation, target: *Journal of Experimental Psychology: General*). There is more evidence for ideological symmetry than asymmetry in party cue effects across a representative sample of issues.
 
-Cassario, A. L., & Brandt, M. J. (in progress). Conviction cascades: Moral conviction transmits through belief system network ties and explains increasing political sectarianism over time.
+Cassario, A. L., Vallabha, S., & Brandt, M. J. (Manuscript in preparation, target: *Journal of Personality and Social Psychology*). Central attitudes are more resistent to change, but are not necessarily less responsive to persuasive interventions.
 
-Cassario, A. L.\*, & Hawke, S.\* (in progress). Towards optimal resource allocation: Exploring resource optimization at the intersection of sample size vs. measurement precision in original survey research.
+Cassario, A. L. (Manuscript in preparation, target: *Journal of Politics*). Exploring the effects of anticipated, actual, and perceived downward mobility on political attitudes.
 
-Triki, A., Cassario, A.L., & Brandt M.J. (in progress). Mixed evidence for ideological asymmetries in partisan cue effects.
+Cassario, A. L., & Brandt, M. J. (Ongoing, target: *Journal of Personality and Social Psychology*). Conviction cascades: Moral conviction transmits through belief system ties.
 
-Brandt, M.J., & Cassario, A.L., (in progress). Daily stress and belief dynamics in context: Evidence from a daily diary study.
+Cassario, A. L. (Ongoing). A more appropriate DV for political attitude change and depolarization interventions? Epistemically grounded belief change vs. raw persuasion.
 
-Brandt, M.J., & Cassario, A.L., (in progress). Can conversations with AI reliably reduce affective polarization?
+Brandt, M. J. & Cassario, A. L. (Ongoing). Can conversations with AI durably reduce political polarization?
 
-\*denotes equal contribution
+Brandt, M. J. & Cassario, A. L. (Ongoing). Within-person fluctuations in daily stress do not predict political prejudice or engagement, but higher between-person stress does: Evidence from an EMA study.
+
+Brandt, M. J. & Cassario, A. L. (Ongoing). Identifying and exploring side-effects of polarization reduction interventions.

@@ -5,15 +5,15 @@ editor: visual
 
 ## Psychology
 
--   Introduction to Social Psychology
--   Personality Psychology
--   Psychology of Women
+-   Introduction to Social Psychology (MSU, instructor of record)
+-   Personality Psychology (MSU, TA)
+-   Psychology of Women (MSU, TA)
 
 ## Political Science
 
--   Introduction to American Politics
--   Race, Innocence, and the Death Penalty
+-   Introduction to American Politics (UNC, TA, section instructor)
+-   Race, Innocence, and the Death Penalty (UNC, TA, section instructor)
 
 ## Methods
 
--   Undergraduate Introduction to Statistics and R Programming (Psychology and Political Science)
+-   Undergraduate Introduction to Statistics and R Programming (Psychology and Political Science; UNC, TA, grader; MSU, TA, section instructor)

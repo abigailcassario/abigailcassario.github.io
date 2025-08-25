@@ -4,42 +4,42 @@
     "href": "Teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Introduction to Social Psychology\nPersonality Psychology\nPsychology of Women"
+    "text": "Introduction to Social Psychology (MSU, instructor of record)\nPersonality Psychology (MSU, TA)\nPsychology of Women (MSU, TA)"
   },
   {
     "objectID": "Teaching.html#psychology",
     "href": "Teaching.html#psychology",
     "title": "Teaching",
     "section": "",
-    "text": "Introduction to Social Psychology\nPersonality Psychology\nPsychology of Women"
+    "text": "Introduction to Social Psychology (MSU, instructor of record)\nPersonality Psychology (MSU, TA)\nPsychology of Women (MSU, TA)"
   },
   {
     "objectID": "Teaching.html#political-science",
     "href": "Teaching.html#political-science",
     "title": "Teaching",
     "section": "Political Science",
-    "text": "Political Science\n\nIntroduction to American Politics\nRace, Innocence, and the Death Penalty"
+    "text": "Political Science\n\nIntroduction to American Politics (UNC, TA, section instructor)\nRace, Innocence, and the Death Penalty (UNC, TA, section instructor)"
   },
   {
     "objectID": "Teaching.html#methods",
     "href": "Teaching.html#methods",
     "title": "Teaching",
     "section": "Methods",
-    "text": "Methods\n\nUndergraduate Introduction to Statistics and R Programming (Psychology and Political Science)"
+    "text": "Methods\n\nUndergraduate Introduction to Statistics and R Programming (Psychology and Political Science; UNC, TA, grader; MSU, TA, section instructor)"
   },
   {
     "objectID": "Research.html",
     "href": "Research.html",
     "title": "Research",
     "section": "",
-    "text": "Attitudes, Beliefs, Belief Systems, Survey Research, Observational Causal Inference, Computational Social Science"
+    "text": "Ideology, Beliefs, Belief Systems, Polarization, Misinformation, Populism, Computational Social Science"
   },
   {
     "objectID": "Research.html#my-interests",
     "href": "Research.html#my-interests",
     "title": "Research",
     "section": "",
-    "text": "Attitudes, Beliefs, Belief Systems, Survey Research, Observational Causal Inference, Computational Social Science"
+    "text": "Ideology, Beliefs, Belief Systems, Polarization, Misinformation, Populism, Computational Social Science"
   },
   {
     "objectID": "Research.html#publications",
@@ -81,7 +81,7 @@
     "href": "index.html",
     "title": "Abigail Cassario: PhD Student in Psychology",
     "section": "",
-    "text": "Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     CV\n  \n  \n     TBS Lab Website\n  \n  \n     Bluesky\n  \n  \n    \n     GoogleScholar\n  \n\n  \n  \nWelcome to my website! I am a PhD Student in Social/Personality Psychology at Michigan State University and a member of the Belief Systems Lab."
+    "text": "Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     CV\n  \n  \n     TBS Lab Website\n  \n  \n     Bluesky\n  \n  \n    \n     GoogleScholar\n  \n\n  \n  \nWelcome to my website! I’m a PhD student in Social & Personality Psychology at Michigan State University and a member of the Belief Systems Lab. I study beliefs and belief-system dynamics. Specifically, my research asks why individuals vary in the content and meta-cognitive properties of their beliefs, and what societal implications the content and meta-cognitive properties of beliefs may have.\nI address my central research questions with three interrelated lines:\n\nindividual differences and belief dynamics. I examine how individual differences shape the content, organization, and evolution of beliefs.\nbelief stability and change in context. I test when and why beliefs and their meta-cognitive properties (e.g., moral conviction, extremity) change or remain the same when socio-political circumstances shift.\nbelief change interventions contextualized. I question the consequences of belief change interventions in context, and seek to shift the field towards maximizing epistemically grounded belief change, rather than raw belief change.\n\nAcross these strands, I emphasize rigorous open-science, comprehensive evidence, and collaboration."
   },
   {
     "objectID": "about.html",
@@ -103,5 +103,12 @@
     "title": "Non-Technically Speaking: A Blog About Statistics, Mostly Using Simulation",
     "section": "",
     "text": "I’ve had a very clear plan for this blog for a long time— really, I have. For about three years, to be exact.\nThree years ago, right before I left Chapel Hill for East Lansing my very dear friend Sam Hawke— who now holds his PhD in biostatistics from the University of North Carolina at Chapel Hill— told me his definition of the term “modeling” over a casual dinner. Sam defined modeling as the process of making a set of explicit assumptions about the data generating process in order to draw inferences from observed data.\nIn an instant, Sam’s definition of a seemingly simple term made years of grueling methods classes click. The many hours and tears spent trying (and often failing) to figure out proofs my first couple years of graduate school suddenly felt like time well spent. After all, those proofs were showing us how we could exploit certain assumptions about our data to draw trustworthy conclusions with our models— and also what breaks when those assumptions didn’t hold.\nSam’s definition also made me realize something else important: if models were really about assumptions regarding data-generating processes, then as someone with a knack for programming I could simulate the approximate data generating process of my own studies. I could examine what happens to my model parameters when those assumptions are violated to varying degrees. I also realized I could take a similar approach to teach myself more advanced techniques, especially for more complex study designs, that are often more likely to violate the assumptions of simpler models. For instance, I could simulate what happens to coefficient estimates and standard errors when the i.i.d. assumption is violated in linear regression— and how multilevel modeling addresses the problem.\nI’m not going to pretend that I take the simulation approach all the time— or even most of the time. After all, I’m a busy graduate student, with way too much to do and not enough hours in the day. It would also be dishonest to say the approach is not time consuming, or for some problems well beyond my capabilities. But this year, I’ve been lucky enough to work with a stellar team of undergraduates in my awesome lab, and some really bright junior graduate students in my program. They’re all capable of learning the more advanced techniques we use in our studies, but they come from wildly different math and stats backgrounds. Some are (or were) humanities or arts majors, others come from STEM fields.\nThe way in which I write these simulations, I think, allows people with very different backgrounds to understand the consequences for our science when the assumptions about our data generating process made by our models don’t hold— and how alternative techniques can solve some problems that emerge. So, really, I’m finally getting around to starting this blog for them.\nI also intend to use this blog to clear up common (but often very understandable!) areas of confusion— like the difference between correlation and regression in a tangible and intuitive way.\nNow about the blog name. I went with “Non-Technically Speaking” for several reasons. First, I don’t take myself too seriously— on social media, and in every day life, I’m almost never “technically speaking.” But drawing on another meaning of the phrase, I want the blog to be approachable, non-intimidating, and beginner friendly. I’ll use equations only when necessary and rely mostly on simulation and visualizations to communicate key points. Finally, if you are someone who tends to be highly technical, this blog is probably not for you— and it may even drive you a bit crazy.\nI don’t plan to go too into the weeds on the topics I cover here. My goal is to simply provide an accessible overview of:\n1) the substantive problem a method solves\n2) the implications of that problem with traditional approaches\n3) how a method solves the problem, and\n4) how to interpret results.\nAnyway, happy reading! If all goes according to plan, I hope to cover about a topic a month through the summer."
+  },
+  {
+    "objectID": "Research.html#research-papers",
+    "href": "Research.html#research-papers",
+    "title": "Research",
+    "section": "Research papers",
+    "text": "Research papers\n\nPeer-Reviewed Journal Articles\nCassario, A. L., Vallabha, S., Thompson, J. L., Carrillo, A., Solanki, P., Gnall, S. A., Rice, S., Wetherell, G., & Brandt, M. J. (2025). Cognitive ability but not cognitive reflection predicts political animosity and favouritism. British Journal of Social Psychology, 62(2), e12814. Paper Supplemental Materials\nCassario, A. L., & Brandt, M. J. (2025). Testing theories of threat, individual difference, and ideology: Little evidence of personality-based individual differences in ideological responses to threat. Social Psychological and Personality Science, 16(6), 657-668.* Paper Supplemental Materials\n*- Recipient of the 2024 SPSP Student Publication Award for Best Graduate Student Publication\nWetherell, G., Thompson, J. L., Cassario, A. L., Brandt, M. J., Gnall, S., Rice, S., Solanki, P., Vallabha, S., & Carrillo, A. (2025). Do mismatches between individual and target group personality predict prejudice? Collabra: Psychology. 11, 136887 Paper\nCassario, A. L. (2023). Perceived vulnerability to infectious disease and perceived harmfulness are as predictive of citizen response to COVID-19 as partisanship. Politics and the Life Sciences, 42 (2), 277–290.  Paper Supplemental Materials\nCox, K. S., Hanek, K. J., & Cassario, A. L. (2019). Redemption in a single low point story longitudinally predicts well-being: The incremental validity of life story elements. Journal of Personality, 87(5), 1009–1024.\n\n\nEditor-Reviewed Publications\nBrandt, M. J., & Cassario, A. L. (2023). Distinguishing between worldview conflict and shared alliances: Commentary on Pinsof, Sears, and Haselton. Psychological Inquiry, 34(3), 168–174. Paper\n\n\nAccepted Stage 1 Registered Reports\nThompson, J. L., Cassario, A. L., Rice, S., Gnall, S. A., Carrillo, A., Solanki, P., Vallabha, S., Brandt, M. J., & Wetherell, G. (accepted). Registered report: Stress testing predictive models of ideological prejudice. PLOS ONE.\n\n\nUnder Review\nCassario, A. L., Triki, A.†, & Brandt, M. J. (under review). Threat exposure does not predict increased conservatism in three large experiments: Evidence from the U.S.\n†- denotes mentored undergraduate student\n\n\nCurrent Projects\nTriki, A.†, Cassario, A. L., & Brandt, M. J. (Manuscript in preparation, target: Journal of Experimental Psychology: General). There is more evidence for ideological symmetry than asymmetry in party cue effects across a representative sample of issues.\nCassario, A. L., Vallabha, S., & Brandt, M. J. (Manuscript in preparation, target: Journal of Personality and Social Psychology). Central attitudes are more resistent to change, but are not necessarily less responsive to persuasive interventions.\nCassario, A. L. (Manuscript in preparation, target: Journal of Politics). Exploring the effects of anticipated, actual, and perceived downward mobility on political attitudes.\nCassario, A. L., & Brandt, M. J. (Ongoing, target: Journal of Personality and Social Psychology). Conviction cascades: Moral conviction transmits through belief system ties.\nCassario, A. L. (Ongoing). A more appropriate DV for political attitude change and depolarization interventions? Epistemically grounded belief change vs. raw persuasion.\nBrandt, M. J. & Cassario, A. L. (Ongoing). Can conversations with AI durably reduce political polarization?\nBrandt, M. J. & Cassario, A. L. (Ongoing). Within-person fluctuations in daily stress do not predict political prejudice or engagement, but higher between-person stress does: Evidence from an EMA study.\nBrandt, M. J. & Cassario, A. L. (Ongoing). Identifying and exploring side-effects of polarization reduction interventions."
   }
 ]
