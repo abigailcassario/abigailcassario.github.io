@@ -10,6 +10,7 @@ author:
     citation: https://alcassario.github.io/posts/2025-05-6/
     image: preview_image.jpg
     draft: true
+    search: false
 ---
 
 I've had a very clear plan for this blog for a long time--- really, I have. For about three years, to be exact.
