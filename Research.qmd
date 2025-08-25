@@ -3,7 +3,7 @@ title: "Research"
 editor: visual
 ---
 
-## My Interests					
+## My Interests
 
 Ideology, Beliefs, Belief Systems, Polarization, Misinformation, Populism, Computational Social Science
 
