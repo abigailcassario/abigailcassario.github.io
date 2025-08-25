@@ -1,7 +1,10 @@
 project:
   type: website
   output-dir: docs
-
+  render:
+    - "**/*.qmd"   # render everything…
+    - "!posts/**"  # …except any files inside posts/
+    - "!posts.qmd" # …and the posts index page itself
 website:
   title: "Abigail Cassario"
   google-analytics: "G-6L8SFJ66MV"
