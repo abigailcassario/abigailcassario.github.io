@@ -15,7 +15,7 @@ Cassario, A. L., Vallabha, S., Thompson, J. L., Carrillo, A., Solanki, P., Gnall
 
 Cassario, A. L., & Brandt, M. J. (2025). Testing theories of threat, individual difference, and ideology: Little evidence of personality-based individual differences in ideological responses to threat. *Social Psychological and Personality Science*, *16*(6), 657-668.\* <a href="2024-08-05-FINAL-personality-threat.pdf">Paper</a> <a href="PersonalityThreatSupplementals.pdf">Supplemental Materials</a>
 
-\*- Recipient of the 2024 SPSP Student Publication Award for Best Graduate Student Publication
+\* Recipient of the 2024 SPSP Student Publication Award for Best Graduate Student Publication
 
 Wetherell, G., Thompson, J. L., Cassario, A. L., Brandt, M. J., Gnall, S., Rice, S., Solanki, P., Vallabha, S., & Carrillo, A. (2025). Do mismatches between individual and target group personality predict prejudice? *Collabra: Psychology*. *11, 136887* <a href="https://online.ucpress.edu/collabra/article/11/1/136887/209913">Paper</a>
 
@@ -35,7 +35,7 @@ Thompson, J. L., Cassario, A. L., Rice, S., Gnall, S. A., Carrillo, A., Solanki,
 
 Cassario, A. L., Triki, A.†, & Brandt, M. J. (under review, target: *Journal of Experimental Social Psychology*). Threat exposure does not predict increased conservatism in three large experiments: Evidence from the U.S.
 
-†- denotes mentored undergraduate student
+† denotes mentored undergraduate student
 
 ### Current Projects
 
@@ -43,14 +43,8 @@ Triki, A.†, Cassario, A. L., & Brandt, M. J. (Manuscript in preparation, targe
 
 Cassario, A. L., Vallabha, S., & Brandt, M. J. (Manuscript in preparation, target: *Journal of Personality and Social Psychology*). Central attitudes are more resistent to change, but are not necessarily less responsive to persuasive interventions.
 
-Cassario, A. L. (Manuscript in preparation, target: *Journal of Politics*). Exploring the effects of anticipated, actual, and perceived downward mobility on political attitudes.
+Cassario, A. L., & Brandt, M. J. (Ongoing, data collection complete, target: *Journal of Personality and Social Psychology*). Conviction cascades: Moral conviction transmits through belief system ties.
 
-Cassario, A. L., & Brandt, M. J. (Ongoing, target: *Journal of Personality and Social Psychology*). Conviction cascades: Moral conviction transmits through belief system ties.
+Cassario, A. L. (Ongoing, data collection, target: *Journal of Politics*). Exploring the effects of anticipated, actual, and perceived downward mobility on political attitudes.
 
-Cassario, A. L. (Ongoing). A more appropriate DV for political attitude change and depolarization interventions? Epistemically grounded belief change vs. raw persuasion.
-
-Brandt, M. J. & Cassario, A. L. (Ongoing). Can conversations with AI durably reduce political polarization?
-
-Brandt, M. J. & Cassario, A. L. (Ongoing). Within-person fluctuations in daily stress do not predict political prejudice or engagement, but higher between-person stress does: Evidence from an EMA study.
-
-Brandt, M. J. & Cassario, A. L. (Ongoing). Identifying and exploring side-effects of polarization reduction interventions.
+Brandt, M. J. & Cassario, A. L. (Ongoing, data collection complete). Within-person fluctuations in daily stress do not predict political prejudice or engagement, but higher between-person stress does: Evidence from an EMA study.

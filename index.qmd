@@ -1,5 +1,5 @@
 ---
-title: "Abigail Cassario: PhD Student in Psychology"
+title: "Abigail Cassario"
 description-meta: "Abigail Cassario, PhD Student, Social Psychology, Michigan State"
 site-url: "https://abigailcassario.github.io"
 open-graph: true
@@ -29,7 +29,7 @@ about:
   id: ppc 
 ---
 :::{#ppc}
-Welcome to my website! I’m a PhD student in Social & Personality Psychology at Michigan State University and a member of the Belief Systems Lab. I study beliefs and belief-system dynamics. Specifically, my research asks why individuals vary in the content and meta-cognitive properties of their beliefs, and what societal implications the content and meta-cognitive properties of beliefs may have.
+Welcome to my website! I’m a PhD Candidate in Social & Personality Psychology at Michigan State University and a member of the Belief Systems Lab. I am a political psychologist studying beliefs and belief-system dynamics. Specifically, my research asks why individuals vary in the content and meta-cognitive properties of their beliefs, and what societal implications the content and meta-cognitive properties of beliefs may have.
 
 I address my central research questions with three interrelated lines:
 
