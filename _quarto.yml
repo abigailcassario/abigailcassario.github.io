@@ -21,6 +21,6 @@ format:
     theme: lumen
     css: styles.css
     toc: true
-
-
+    bootstrap:
+    primary: "#198754"   
 
