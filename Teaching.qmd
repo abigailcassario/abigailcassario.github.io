@@ -3,17 +3,23 @@ title: "Teaching"
 editor: visual
 ---
 
-## Psychology
+## Teaching Philosophy
+
+I view teaching and research as deeply interconnected, with both grounded in curiosity, rigor, and collaboration. In the classroom, I encourage students to apply social science theories to their own experiences, fostering critical thinking and a sense of ownership over learning. My goal is to create an inclusive environment where students from all backgrounds feel empowered to contribute, grow, and see themselves as part of the scholarly community.
+
+## Teaching Experience
+
+### Psychology
 
 -   Introduction to Social Psychology (MSU, instructor of record)
 -   Personality Psychology (MSU, TA)
 -   Psychology of Women (MSU, TA)
 
-## Political Science
+### Political Science
 
 -   Introduction to American Politics (UNC, TA, section instructor)
 -   Race, Innocence, and the Death Penalty (UNC, TA, section instructor)
 
-## Methods
+### Methods
 
 -   Undergraduate Introduction to Statistics and R Programming (Psychology and Political Science; UNC, TA, grader; MSU, TA, section instructor)
