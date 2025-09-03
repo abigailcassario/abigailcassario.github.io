@@ -22,4 +22,4 @@ I view teaching and research as deeply interconnected, with both grounded in cur
 
 ### Methods
 
--   Undergraduate Introduction to Statistics and R Programming (Psychology and Political Science; TA, grader, section instructor)
+-   Undergraduate Introduction to Statistics and R Programming (Psychology and Political Science; TA, section instructor)
