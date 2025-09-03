@@ -11,15 +11,15 @@ I view teaching and research as deeply interconnected, with both grounded in cur
 
 ### Psychology
 
--   Introduction to Social Psychology (MSU, instructor of record)
--   Personality Psychology (MSU, TA)
--   Psychology of Women (MSU, TA)
+-   Introduction to Social Psychology (instructor of record)
+-   Personality Psychology (TA)
+-   Psychology of Women (TA)
 
 ### Political Science
 
--   Introduction to American Politics (UNC, TA, section instructor)
--   Race, Innocence, and the Death Penalty (UNC, TA, section instructor)
+-   Introduction to American Politics (TA, section instructor)
+-   Race, Innocence, and the Death Penalty (TA, section instructor)
 
 ### Methods
 
--   Undergraduate Introduction to Statistics and R Programming (Psychology and Political Science; UNC, TA, grader; MSU, TA, section instructor)
+-   Undergraduate Introduction to Statistics and R Programming (Psychology and Political Science; TA, grader, section instructor)
