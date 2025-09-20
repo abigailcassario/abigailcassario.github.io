@@ -4,7 +4,7 @@ description-meta: "Abigail Cassario, PhD Student, Social Psychology, Michigan St
 site-url: "https://abigailcassario.github.io"
 open-graph: true
 image: "Me.png"
-resources: 2025_poli_sci_Cassario_cv_for_sharing.pdf
+resources: 2025_poli_sci_Cassario_cv.pdf
 about:  
   template: trestles
   image-shape: round
