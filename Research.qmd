@@ -11,6 +11,8 @@ Ideology, Beliefs, Belief Systems, Polarization, Misinformation, Populism, Compu
 
 ### Peer-Reviewed Journal Articles
 
+Thompson, J. L., Cassario, A. L., Rice, S., Gnall, S. A., Carrillo, A., Solanki, P., Vallabha, S., Brandt, M. J., & Wetherell, G. (Forthcoming). Registered report: Stress testing predictive models of ideological prejudice. *PLOS ONE*.
+
 Cassario, A. L., Vallabha, S., Thompson, J. L., Carrillo, A., Solanki, P., Gnall, S. A., Rice, S., Wetherell, G., & Brandt, M. J. (2025). Cognitive ability but not cognitive reflection predicts political animosity and favouritism. *British Journal of Social Psychology, 62*(2), e12814. <a href="2024-10-01-Stage2-FINAL.pdf">Paper</a> <a href="10-01-2024-Supplementals_Materials.pdf">Supplemental Materials</a>
 
 Cassario, A. L., & Brandt, M. J. (2025). Testing theories of threat, individual difference, and ideology: Little evidence of personality-based individual differences in ideological responses to threat. *Social Psychological and Personality Science*, *16*(6), 657-668.\* <a href="2024-08-05-FINAL-personality-threat.pdf">Paper</a> <a href="PersonalityThreatSupplementals.pdf">Supplemental Materials</a>
@@ -26,10 +28,6 @@ Cox, K. S., Hanek, K. J., & Cassario, A. L. (2019). Redemption in a single low p
 ### Editor-Reviewed Publications
 
 Brandt, M. J., & Cassario, A. L. (2023). Distinguishing between worldview conflict and shared alliances: Commentary on Pinsof, Sears, and Haselton. *Psychological Inquiry, 34*(3), 168--174. <a href="comment_brandt-cassario_psyarxiv.pdf">Paper</a>
-
-### Accepted Stage 1 Registered Reports
-
-Thompson, J. L., Cassario, A. L., Rice, S., Gnall, S. A., Carrillo, A., Solanki, P., Vallabha, S., Brandt, M. J., & Wetherell, G. (accepted). Registered report: Stress testing predictive models of ideological prejudice. *PLOS ONE*.
 
 ### Book Chapters
 
