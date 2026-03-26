@@ -11,7 +11,7 @@ Ideology, Beliefs, Belief Systems, Polarization, Misinformation, Populism, Compu
 
 ### Peer-Reviewed Journal Articles
 
-Thompson, J. L., Cassario, A. L., Rice, S., Gnall, S. A., Carrillo, A., Solanki, P., Vallabha, S., Brandt, M. J., & Wetherell, G. (Forthcoming). Registered report: Stress testing predictive models of ideological prejudice. *PLOS ONE*.
+Thompson, J. L., Cassario, A. L., Rice, S., Gnall, S. A., Carrillo, A., Solanki, P., Vallabha, S., Brandt, M. J., & Wetherell, G. (2025). Registered report: Stress testing predictive models of ideological prejudice. *Plos One*, *20*(10), e0334152.
 
 Cassario, A. L., Vallabha, S., Thompson, J. L., Carrillo, A., Solanki, P., Gnall, S. A., Rice, S., Wetherell, G., & Brandt, M. J. (2025). Cognitive ability but not cognitive reflection predicts political animosity and favouritism. *British Journal of Social Psychology, 62*(2), e12814. <a href="2024-10-01-Stage2-FINAL.pdf">Paper</a> <a href="10-01-2024-Supplementals_Materials.pdf">Supplemental Materials</a>
 
