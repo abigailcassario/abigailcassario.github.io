@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - "*.pdf"
   render:
     - "**/*.qmd"   # render everything…
     - "!posts/**"  # …except any files inside posts/
@@ -15,7 +17,6 @@ website:
       - Research.qmd
       - Teaching.qmd
       - posts.qmd
-
 format:
   html:
     theme: lumen
