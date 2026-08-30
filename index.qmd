@@ -4,7 +4,7 @@ description-meta: "Abigail Cassario, PhD, Postdoctoral Research Associate, Psych
 site-url: "https://abigailcassario.github.io"
 open-graph: true
 image: "Me.png"
-resources: 2026_Cassario_cv.pdf
+resources: 2026_Cassario_CV.pdf
 about:  
   template: trestles
   image-shape: round
@@ -18,7 +18,7 @@ about:
       href: https://github.com/abigailcassario
     - text: CV
       icon: file-text
-      href: 2026_Cassario_cv.pdf
+      href: 2026_Cassario_CV.pdf
     - text: BIGR Lab
       href: https://bigr.psch.uic.edu/
     - text: Bluesky 
