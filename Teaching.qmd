@@ -23,3 +23,18 @@ I view teaching and research as deeply interconnected, with both grounded in cur
 ### Methods
 
 -   Undergraduate Introduction to Statistics and R Programming (Psychology and Political Science; TA, section instructor)
+
+## Research Mentorship
+
+In Spring 2026, I led the Belief Systems Lab's undergraduate research program while my advisor was on research leave, helping guide student teams through every stage of the research process. My teams took first, second, and third place in their section at Michigan State's University Undergraduate Research and Arts Forum (UURAF).
+
+-   **First place, best research presentation in psychology.** "To what extent does your social group (or 'close others') agree or disagree with your political views?" --- Genevieve Orlewicz, Nicole Thomas, & Peyton McLaughlin
+-   **Second place, best research presentation in psychology.** "Does your social group influence how open you are to differing political views?" --- Genevieve Orlewicz, Nicole Thomas, & Peyton McLaughlin
+-   **Third place, best research presentation in psychology.** "The relationship between religion and media trust" --- Emma Dye
+-   "How country pride affects immigrants' life satisfaction" --- Madeline Hilditch & Mina Arikan
+
+I also mentor undergraduates as collaborators on manuscripts. My mentee is first author on a paper in the *Journal of Experimental Social Psychology*; I taught him machine learning methods and how to implement them on Michigan State's high-performance computing cluster.
+
+## Courses I am Prepared to Teach
+
+Social Psychology · Personality Psychology · Introductory Psychology · Research Methods & Statistics · Computational Social Science · Political Psychology · Political Behavior · American Politics · Moral Psychology · Attitudes & Persuasion · Beliefs & Misinformation · Psychology of Prejudice

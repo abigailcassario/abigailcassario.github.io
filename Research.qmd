@@ -1,50 +1,70 @@
 ---
 title: "Research"
-editor: visual
+editor: "visual"
 ---
 
 ## My Interests
 
-Ideology, Beliefs, Belief Systems, Polarization, Misinformation, Populism, Computational Social Science
+Beliefs, Belief Systems, Attitudes, Persuasion, Ideology, Computational Social Science
 
 ## Research papers
 
+† denotes mentored undergraduate student
+
 ### Peer-Reviewed Journal Articles
 
-Thompson, J. L., Cassario, A. L., Rice, S., Gnall, S. A., Carrillo, A., Solanki, P., Vallabha, S., Brandt, M. J., & Wetherell, G. (2025). Registered report: Stress testing predictive models of ideological prejudice. *Plos One*, *20*(10), e0334152.
+Triki, A.†, Cassario, A. L., & Brandt, M. J. (in press). American liberals and conservatives have different cognitive styles, but (mostly) respond the same to party cues. *Journal of Experimental Social Psychology*. <a href="Triki_party_cues_2026.pdf">Paper</a>
 
-Cassario, A. L., Vallabha, S., Thompson, J. L., Carrillo, A., Solanki, P., Gnall, S. A., Rice, S., Wetherell, G., & Brandt, M. J. (2025). Cognitive ability but not cognitive reflection predicts political animosity and favouritism. *British Journal of Social Psychology, 62*(2), e12814. <a href="2024-10-01-Stage2-FINAL.pdf">Paper</a> <a href="10-01-2024-Supplementals_Materials.pdf">Supplemental Materials</a>
+Thompson, J. L., Cassario, A. L., Rice, S., Gnall, S. A., Carrillo, A., Solanki, P., Vallabha, S., Brandt, M. J., & Wetherell, G. (2025). Registered report: Stress testing predictive models of ideological prejudice. *Plos One*, 20(10), e0334152.
 
-Cassario, A. L., & Brandt, M. J. (2025). Testing theories of threat, individual difference, and ideology: Little evidence of personality-based individual differences in ideological responses to threat. *Social Psychological and Personality Science*, *16*(6), 657-668.\* <a href="2024-08-05-FINAL-personality-threat.pdf">Paper</a> <a href="PersonalityThreatSupplementals.pdf">Supplemental Materials</a>
+Cassario, A. L., Vallabha, S., Thompson, J. L., Carrillo, A., Solanki, P., Gnall, S. A., Rice, S., Wetherell, G., & Brandt, M. J. (2025). Registered report: Cognitive ability, but not cognitive reflection, predicts expressing greater political animosity and favouritism. *British Journal of Social Psychology*, 64(2), e12814. <a href="2024-10-01-Stage2-FINAL.pdf">Paper</a> <a href="10-01-2024-Supplementals_Materials.pdf">Supplemental Materials</a>
 
-\* Recipient of the 2025 SPSP Student Publication Award
+Cassario, A. L., & Brandt, M. J. (2025). Testing theories of threat, individual difference, and ideology: Little evidence of personality-based individual differences in ideological responses to threat. *Social Psychological and Personality Science*, 16(6), 657-668.\* <a href="2024-08-05-FINAL-personality-threat.pdf">Paper</a> <a href="PersonalityThreatSupplementals.pdf">Supplemental Materials</a>
 
-Wetherell, G., Thompson, J. L., Cassario, A. L., Brandt, M. J., Gnall, S., Rice, S., Solanki, P., Vallabha, S., & Carrillo, A. (2025). Do mismatches between individual and target group personality predict prejudice? *Collabra: Psychology*. *11, 136887* <a href="https://online.ucpress.edu/collabra/article/11/1/136887/209913">Paper</a>
+-   Recipient of the 2025 SPSP Student Publication Award
 
-Cassario, A. L. (2023). Perceived vulnerability to infectious disease and perceived harmfulness are as predictive of citizen response to COVID-19 as partisanship. *Politics and the Life Sciences,* 42 (2), 277--290. <a href="PVD_shortened_intro_PLS_new_pdf.pdf"> Paper</a> <a href="PVDHarmAppendixPLS_pdf.pdf">Supplemental Materials</a>
+Wetherell, G., Thompson, J. L., Cassario, A. L., Brandt, M. J., Gnall, S., Rice, S., Solanki, P., Vallabha, S., & Carrillo, A. (2025). Do mismatches between individual and target group personality predict prejudice? *Collabra: Psychology*. 11, 136887 <a href="https://online.ucpress.edu/collabra/article/11/1/136887/209913">Paper</a>
 
-Cox, K. S., Hanek, K. J., & Cassario, A. L. (2019). Redemption in a single low point story longitudinally predicts well-being: The incremental validity of life story elements. *Journal of Personality, 87*(5), 1009--1024.
+Cassario, A. L. (2023). Perceived vulnerability to infectious disease and perceived harmfulness are as predictive of citizen response to COVID-19 as partisanship. *Politics and the Life Sciences*, 42 (2), 277--290. <a href="PVD_shortened_intro_PLS_new_pdf.pdf"> Paper</a> <a href="PVDHarmAppendixPLS_pdf.pdf">Supplemental Materials</a>
+
+Cox, K. S., Hanek, K. J., & Cassario, A. L. (2019). Redemption in a single low point story longitudinally predicts well-being: The incremental validity of life story elements. *Journal of Personality*, 87(5), 1009--1024.
 
 ### Editor-Reviewed Publications
 
-Brandt, M. J., & Cassario, A. L. (2023). Distinguishing between worldview conflict and shared alliances: Commentary on Pinsof, Sears, and Haselton. *Psychological Inquiry, 34*(3), 168--174. <a href="comment_brandt-cassario_psyarxiv.pdf">Paper</a>
+Brandt, M. J., & Cassario, A. L. (2023). Distinguishing between worldview conflict and shared alliances: Commentary on Pinsof, Sears, and Haselton. *Psychological Inquiry*, 34(3), 168--174. <a href="comment_brandt-cassario_psyarxiv.pdf">Paper</a>
 
 ### Book Chapters
 
-Brandt, M. J., Vallabha, S., & Cassario, A. L. (2024). Is political identification a key for political animosity? In J. P. Forgas (Ed.), *The Tribal Mind and the Psychology of Collectivism*. Routledge.
+Brandt, M. J., Vallabha, S., & Cassario, A. L. (2024). Is political identification a key for political animosity? In J. P. Forgas (Ed.), The Tribal Mind and the Psychology of Collectivism. Routledge.
+
+### Under Revision
+
+Cassario, A. L., Vallabha, S., & Brandt, M. J. (Invited resubmission: *Journal of Personality and Social Psychology*). Central attitudes are more resistant to change, but are not necessarily less responsive to persuasive interventions.
+
+Cameron, C. D., Cassario, A. L., Eadeh, F., Floman, J., Kubin, E., Laurent, S., Pasek, M. H., Phillips, J., & Schumann, K. (Revise and resubmit: *Political Psychology*). Political divisions and the security of empathy.
 
 ### Selected Current Projects
 
-Triki, A.†, Cassario, A. L., & Brandt, M. J. (Revise and Resubmit: *Journal of Experimental Social Psychology*). American liberals and conservatives (mostly) respond the same to party cues.
+Cassario, A. L., & Brandt, M. J. (Manuscript in preparation). Conviction cascades: Moral conviction transmits through belief system ties.
 
-† denotes mentored undergraduate student
+Cassario, A. L., Triki, A.†, & Brandt, M. J. (Manuscript in preparation). Does threat exposure increase conservatism? Evidence for terrorism-specific but not general causal effects.
 
-Cassario, A. L., Triki, A.†, & Brandt, M. J. (Under Review). Threat exposure does not predict increased conservatism in three large experiments: Evidence from the U.S.
+Brandt, M. J., & Cassario, A. L. (Manuscript in preparation). Side effects of depolarization interventions.
 
-Cassario, A. L., Vallabha, S., & Brandt, M. J. (Under Review). Central attitudes are more resistant to change, but are not necessarily less responsive to persuasive interventions.
+Brandt, M. J. & Cassario, A. L. (Manuscript in preparation). Within-person fluctuations in daily stress do not predict political prejudice or engagement, but higher between-person stress does: Evidence from an EMA study.
 
-Cassario, A. L., & Brandt, M. J. (Data Collection Complete). Conviction cascades: Moral conviction transmits through belief system ties.
+Cassario, A. L. (2026). Falling short? Testing the causal effect of downward mobility on populist support. Doctoral dissertation, Michigan State University.
 
-Brandt, M. J. & Cassario, A. L. (Data Collection Complete). Within-person fluctuations in daily stress do not predict political prejudice or engagement, but higher between-person stress does: Evidence from an EMA study.
+## Grants & Awards
 
-Cassario, A. L. (Data Collection). Exploring the effects of anticipated, actual, and perceived downward mobility on political attitudes.
+2026 --- Institute for Humane Studies Residency Grant (\$4,600)
+
+2026 --- Michigan State University Dissertation Completion Fellowship (\$7,500)
+
+2025 --- SPSP Student Publication Award for Best Graduate Student Publication in an SPSP Journal
+
+2025 --- Institute for Humane Studies Grant, Co-Investigator with Mark Brandt (\$5,000)
+
+2025 --- Michigan State University Research Enhancement Award (\$1,000)
+
+2025 --- PolNet--PaCSS Graduate Student Fellowship (\$200)

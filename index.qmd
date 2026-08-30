@@ -1,10 +1,10 @@
 ---
 title: "Abigail Cassario"
-description-meta: "Abigail Cassario, PhD Student, Social Psychology, Michigan State"
+description-meta: "Abigail Cassario, PhD, Postdoctoral Research Associate, Psychology, University of Illinois Chicago"
 site-url: "https://abigailcassario.github.io"
 open-graph: true
 image: "Me.png"
-resources: 2026_psych_Cassario_cv_sharing.pdf
+resources: 2026_Cassario_cv.pdf
 about:  
   template: trestles
   image-shape: round
@@ -12,15 +12,15 @@ about:
   links: 
     - text: Email
       icon: envelope
-      href: mailto:alcassario96@gmail.com
+      href: mailto:cassario@uic.edu
     - text: GitHub
       icon: github
       href: https://github.com/abigailcassario
     - text: CV
       icon: file-text
-      href: 2026_psych_Cassario_cv_sharing.pdf
-    - text: TBS Lab Website
-      href: https://tbslaboratory.com/
+      href: 2026_Cassario_cv.pdf
+    - text: BIGR Lab
+      href: https://bigr.psch.uic.edu/
     - text: Bluesky 
       href: https://bsky.app/profile/abbycassario.bsky.social
     - text: GoogleScholar
@@ -29,7 +29,8 @@ about:
   id: ppc 
 ---
 :::{#ppc}
-Welcome to my website! I’m a PhD Candidate in Social & Personality Psychology at Michigan State University and a member of the Belief Systems Lab. I am a political psychologist studying beliefs and belief-system dynamics. Specifically, my research asks why individuals vary in the content and meta-cognitive properties of their beliefs, and what societal implications the content and meta-cognitive properties of beliefs may have.
+Welcome to my website! I'm a Postdoctoral Research Associate in the Belief Identity and Group Relations Lab at the University of Illinois Chicago. I completed my PhD in Social & Personality Psychology at Michigan State University in 2026, following an MA in Political Science at UNC Chapel Hill. I study beliefs and belief-system dynamics. Specifically, my research asks why individuals vary in the content and meta-cognitive properties of their beliefs, and what societal implications the content and meta-cognitive properties of beliefs may have.
+
 I address my central research questions with three interrelated lines:
 
 1) individual differences and belief dynamics. I examine how individual differences shape the content, organization, and evolution of beliefs. 
@@ -38,5 +39,6 @@ I address my central research questions with three interrelated lines:
 
 3) belief change interventions contextualized. I question the consequences of belief change interventions in context, and when it makes sense to maximize  epistemically grounded belief change versus raw persuasion.
 
-Across these strands, I emphasize rigorous open-science, comprehensive evidence, and collaboration.
+Across these strands, I emphasize rigorous open-science, comprehensive evidence, and collaboration. My work has been recognized with the 2025 SPSP Student Publication Award and supported by the Institute for Humane Studies. I am also deeply committed to mentoring student researchers as collaborators.
 :::
+
